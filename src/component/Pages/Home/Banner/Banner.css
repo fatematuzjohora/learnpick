@@ -1,0 +1,8 @@
+.img-h{
+    height: 520px;
+}
+@media only screen and (max-width: 425px){
+    .img-h{
+        height: 300px;
+    }
+}
