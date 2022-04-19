@@ -4,19 +4,27 @@ This Website [live link](https://learnpick-d5bf3.web.app/).
 
 ## Available Future
 
- amazing navbar.
+ *amazing navbar.
 
- fully responsive..
- awesome landing page..
- useful menu bar ...
- ui & ux users friendly..
+ *fully responsive..
+
+ *awesome landing page..
+
+ *useful menu bar ...
+
+ *ui & ux users friendly..
 
 ## Usegs Library and framwork
 `
->React js
->react router
->reac boostrap.
->react tostify.
->firebase authentication library.
->firebase home.
+>*React js
+
+>*react router
+
+>*react bootstrap
+
+>*react tostify.
+
+>*firebase authentication library.
+
+>*firebase home.
 `
