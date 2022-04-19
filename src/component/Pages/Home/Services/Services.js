@@ -3,7 +3,6 @@ import { useState } from "react";
 import { useEffect } from "react";
 import Service from "../../Home/Service/Service";
 import "../../../Shared/CustomCss/Custom.css";
-import { Link } from "react-router-dom";
 
 const Services = () => {
   const [services, setServices] = useState([]);
@@ -20,14 +19,7 @@ const Services = () => {
           <Service key={service.id} service={service}></Service>
         ))}
       </div>
-      <div className="d-flex justify-content-center py-5">
-        <button>
-          {" "}
-          <Link className="text-decoration-none" to="/services">
-            See All Service
-          </Link>
-        </button>
-      </div>
+      
     </div>
   );
 };
