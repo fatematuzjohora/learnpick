@@ -1,7 +1,7 @@
 import React from "react";
 import { Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import welcome from "../../../Images/jon-tyson-P2aOvMMUJnY-unsplash.jpg";
+import welcome from "../../../Images/j-kelly-brito-PeUJyoylfe4-unsplash.jpg";
 import "../../../Shared/CustomCss/Custom.css"
 
 
