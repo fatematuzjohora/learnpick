@@ -4,11 +4,11 @@ This Website [live link](https://learnpick-d5bf3.web.app/).
 
 ## Available Future
 `
->amaging navbar.
-.fully responsive..
-.awsome landing page..
-.useful manu bar ...
-.ui & ux users friendly..
+ amazing navbar.
+ fully responsive..
+ awesome landing page..
+ useful menu bar ...
+ ui & ux users friendly..
 `
 ## Usegs Library and framwork
 `
