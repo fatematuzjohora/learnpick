@@ -56,7 +56,7 @@ const Register = () => {
         <Form.Group className="mb-3" controlId="formBasicPassword">
           <Form.Control type="password" ref={passwordRef} placeholder="Password" />
         </Form.Group>
-        <Button variant=" d-block mb-2" className="button-style w-75 text-light mx-auto" type="submit">
+        <Button variant=" d-block mb-2" className="button-style w-75 text-light mx-auto bg-primary" type="submit">
           Sing Up
         </Button>
         {errorMessage}

@@ -76,7 +76,7 @@ const Login = () => {
         </Form.Group>
         <Button
           variant=" d-block mb-2"
-          className="button-style w-75 text-light mx-auto"
+          className="button-style w-75 text-light mx-auto bg-primary"
           type="submit"
         >
           Login
@@ -101,7 +101,8 @@ const Login = () => {
           Reset Password
         </button>
       </p>
-      <SocialLogin></SocialLogin>
+      <SocialLogin
+      ></SocialLogin>
       <ToastContainer />
       </div>
     </div>
