@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Chemistry",
+      "id": 1,
+      "price": 120,
+      "img": "https://i.ibb.co/JRB0B94/Chemistry.jpg"
+    },
+    {
+      "name": "ARB Language",
+      "id": 2,
+      "price": 200,
+      "img": "https://i.ibb.co/NV9Pw2H/ARB-Language.jpg"
+    },
+    {
+      "name": "Economics",
+      "id": 3,
+      "price": 300,
+      "img": "https://i.ibb.co/kGjJQ6D/Economics.jpg"
+    },
+    {
+      "name": "Mathematics",
+      "id": 4,
+      "price": 600,
+      "img": "https://i.ibb.co/4f4YKGd/Mathematics.jpg"
+    },
+    {
+      "name": "Physics",
+      "id": 5,
+      "price": 700,
+      "img": "https://i.ibb.co/qC69GPm/Physics.jpg"
+    },
+    {
+      "name": "IELTS",
+      "id": 6,
+      "price": 200,
+      "img": "https://i.ibb.co/jZtgX7X/IELTS.jpg"
+    }
+  ]
+  
