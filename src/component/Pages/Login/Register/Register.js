@@ -5,8 +5,8 @@ import auth from "../../../../firebase.init";
 import { Link, useNavigate } from "react-router-dom";
 import '../../../Shared/CustomCss/Custom.css'
 import { useRef } from "react";
-import SocialLogin from "../SocialLogin/SocialLoin";
 import Loading from "../../../Shared/Loading/Loading";
+import SocialLogin from "../SocialLogin/SocialLogin";
 
 
 const Register = () => {

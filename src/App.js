@@ -1,16 +1,16 @@
-import Header from "./Components/Shared/Header/Header";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
-import Home from "./Components/Pages/Home/Home/Home";
-import Footer from "./Components/Shared/Footer/Footer";
-import AboutMe from "./Components/Pages/AboutMe/AboutMe";
-import Login from "./Components/Pages/Login/Login/Login";
-import Register from "./Components/Pages/Login/Register/Register";
-import NotFoundPage from "./Components/Shared/NotFoundPage/NotFoundPage";
-import Blogs from "./Components/Pages/Blogs/Blogs";
-import Checkout from "./Components/Pages/Checkout/Checkout"
-import RequireAuth from "./Components/Pages/Login/RequireAuth/RequireAuth";
-import Services from "./Components/Pages/Home/Services/Services";
+import Header from "./component/Shared/Header/Header";
+import Home from "./component/Pages/Home/Home/Home";
+import Footer from "./component/Shared/Footer/Footer";
+import AboutMe from "./component/Pages/AboutMe/AboutMe";
+import Login from "./component/Pages/Login/Login/Login";
+import Register from "./component/Pages/Login/Register/Register";
+import NotFoundPage from "./component/Shared/NotFoundPage/NotFoundPage";
+import Blogs from "./component/Pages/Blogs/Blogs";
+import Checkout from "./component/Pages/Checkout/Checkout";
+import RequireAuth from "./component/Pages/Login/RequireAuth/RequireAuth";
+import Services from "./component/Pages/Home/Services/Services";
 
 function App() {
   return (
